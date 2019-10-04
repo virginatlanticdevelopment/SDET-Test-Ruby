@@ -1,5 +1,7 @@
 # SDET-Test-Ruby
 SDET-Test-Ruby
+
+
 1-Automate the feature file using cucumber, watir or capybara and paje object pattern 
 
 
